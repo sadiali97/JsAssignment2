@@ -156,10 +156,18 @@ function btask6() {
 
 }
 function btask7() {
-
+    var a = Number(prompt('your weight'));
+    document.write("The weight of user is: " + a + " Kilogram");
 }
 function btask8() {
-
+    var userNum = Number(prompt('type a no.'));
+    var secNum = 5;
+    if(userNum === secNum) {
+        document.write("CONGRATULATIONS");
+    }
+    else{
+        document.write("NO. NOT FOUND!");
+    }
 }
 
 
