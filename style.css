@@ -1,0 +1,61 @@
+h1{
+    font-family: cursive;
+    font-size: 40px;
+    background: #F5D9F7;
+    color: #7C1B84;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+.cont{
+    font-size: 20px;
+    background: #CAD9FA;
+    color: #225BD5;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+h3{
+    font-family: cursive;
+    font-size: 25px;
+    text-decoration: underline;
+    background-color: #CAD9FA;
+    color: #225BD5;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+.myButton {
+box-shadow:inset 0px 0px 0px 0px #fbafe3;
+background:linear-gradient(to bottom,  #7C1B84 5%, #F5D9F7 100%);
+background-color:#ff5bb0;
+border-radius:3px;
+border:1px solid  #7C1B84;
+display:inline-block;
+cursor:pointer;
+color:#ffffff;
+font-family:Verdana;
+font-size:19px;
+font-weight:bold;
+font-style:italic;
+padding:16px 53px;
+text-decoration:none;
+text-shadow:0px 4px 0px  #7C1B84;
+}
+.button {
+	box-shadow:inset 0px 0px 0px 0px #fbafe3;
+	background:linear-gradient(to bottom, #ff5bb0 5%, #ef027d 100%);
+	background-color:#ff5bb0;
+	border-radius:3px;
+	border:1px solid #ee1eb5;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:19px;
+	font-weight:bold;
+	font-style:italic;
+	padding:16px 53px;
+	text-decoration:none;
+	text-shadow:0px 4px 0px #c70067;
+	}
